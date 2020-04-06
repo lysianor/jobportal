@@ -1,0 +1,108 @@
+@media only screen and (max-width:1200px){
+header .header .navbar-light .navbar-nav .nav-link .fa {padding-right: 3px;}
+header .header .navbar-light .navbar-nav .nav-link {font-size: 12px;}
+.send_box_fixed {width:300px;}
+}
+@media only screen and (max-width:992px){
+header .header .bg-light {float: none;}
+header .header .logo img{max-width:100%;}
+.send_box_fixed {width: 275px;}
+span.notifaction{display: none;}
+section.Find-job{overflow: hidden;}
+section.how_it_work{overflow: hidden;}
+section.Featured_Jobs{overflow: hidden;}
+section.Download_our{overflow: hidden;}
+.second_slider{overflow: hidden;}
+button .navbar-toggler.collapsed {position: absolute;top: -3px;right: 0px;}
+header .header {padding-top: 10px;background: #000;height: 48px;}
+button.navbar-toggler {position: absolute;right: 0px;top: -3px;}
+div#navbarSupportedContent {background:#fff;position: absolute;width: 143%;left: -182px;top:39px;}
+.section-title h2 {font-size: 34px;}
+.client-content {margin-top: 55px;}
+.how_it_work .cat-details p{font-size: 14px;}
+.how_it_work .cat-icon img {padding-top: 14px;width: 30%;}
+.how_it_work .cat-details h3 {font-size: 17px;padding: 10px 0px;}
+header .header .navbar-light .navbar-nav .nav-link {color: #000;font-size: 15px;padding: 12px 35px;}
+header .header li.nav-item {border-bottom: 1px #000 solid;}
+}
+@media only screen and (max-width:767px){
+span.notifaction{display: none;}
+div#navbarSupportedContent {background: #fff;position: absolute;width: 767px;left: -248px;top: 39px;}
+.search_bar_listing .form-control {height: 50px;width: 100%;margin-bottom: 20px;}
+section.contact_us .contact-form input[type=text] {width: 100%;margin-bottom: 20px;}
+section.contact_us .contact-form textarea {margin-top: 0px;}
+header .header {
+	position: relative;
+}
+.single-job .job-meta {width: 100%; margin-top: 10px; padding-left: 0}
+.single-job .timing {
+	margin-left: 0;
+	position: initial;
+	display: inline-block;
+	width: 100%;
+	text-align: left;
+}
+.header.fixed-me {
+	z-index: 99999
+}
+}
+@media only screen and (max-width:568px){
+.slider-area{margin-top: 0px;background-position: center top;}
+section.jovb_list-overfellow{overflow: hidden;}
+.search_bar_listing .form-control {height: 50px;width: 100%;margin-bottom: 20px;}
+.job_button_p a{float: left;}
+header .header .bg-light {float: none;}
+.Featured_Jobs .owl-nav{display: none;}
+.Purchase-Membership .owl-nav{display: none;}
+section.contact_us .contact-form button {margin-bottom: 20px;}
+header .header {padding: 0px;}
+.slider-area .slider-text h1 {font-size: 36px;}
+span.notifaction{display: none;}
+.mobile-hide {display: none;}
+.mobile-show {display: block;}
+.job-search-bar {position: relative;right: 0;left: 0;}
+.search_button {padding-top: 30px;}
+.how_it_work .thumbnail-bx {margin-bottom: 20px;}
+.pb-100 {padding-bottom: 50px;}
+.single-job .job-meta {width: 100%; margin-top: 10px; padding-left: 0}
+.single-job .meta-info {display: block !important;}
+/*.single-job .timing {margin-left: 75px !important;}*/
+.section-title h2, .section-title h3, .sidebar-title h2, .sidebar-title h3 {font-size: 24px;}
+.apps-download-area .apps-btn {margin-bottom: 30px;}
+.apps-download-area .apps-btn a:first-child img {margin-bottom: 10px;}
+.job-browse-area .title h2 {font-size: 24px;}
+header .header .logo{width: 38%;margin-top: 10px;}
+.job-categories-area .expore_btn.text-right{display: none;}
+.expore_btn.btn_centre{display: block;bottom: -100%;margin-left: 25%;margin-top: 20px;}
+.client-content {text-align: center;margin-top: 50px;}
+section.Find-job{overflow: hidden;}
+section.how_it_work{overflow: hidden;}
+section.Featured_Jobs{overflow: hidden;}
+section.Download_our{overflow: hidden;}
+.second_slider{overflow: hidden;}
+.client-content .client-big {font-size: 44px;color: #33b6cb;font-weight: 600;}
+button.navbar-toggler.collapsed {position: absolute;top: -32px;right: 0px;}
+button.navbar-toggler {position: absolute;right: 0px;top: -32px;}
+div#navbarSupportedContent {background: #fff;position: absolute;width: 111%;left: -15px;top: 7px;}
+header .header .navbar-light .navbar-nav .nav-link {color: #000;font-size: 15px;padding: 8px 20px;}
+header .header li.nav-item {border-bottom: 1px #000 solid;}
+.header.fixed-me {padding: 0px 0px !important;}
+.slider-area .slide-title p {font-size: 18px;color: #fff;margin-bottom: -69px;}
+.job-search-bar .section-title h2 {color: #fff;font-size: 25px;}
+header .header {background: #000;height: 84px;}
+button.navbar-toggler.collapsed {position: absolute;top: -40px;right: 0px;}
+}
+@media only screen and (max-width:479px){
+header .header {background: #000;height: 64px;}
+button.navbar-toggler.collapsed {position: absolute;top: -32px;right: 0px;}
+button.navbar-toggler {position: absolute;right: 0px;top: -38px;}
+section.contact_us .contact-form input[type=text] {width: 100%;margin-bottom: 20px;}
+section.contact_us .contact-form textarea {margin-top: 0px;}
+}
+@media only screen and (max-width:320px){
+header .header {background: #000;height: 48px;} 
+button.navbar-toggler.collapsed {position: absolute;top: -32px;right: 0px;}
+button.navbar-toggler {position: absolute;right: 0px;top: -31px;}
+section.contact_us .contact-form input[type=text] {width: 100%;margin-bottom: 20px;}
+section.contact_us .contact-form textarea {margin-top: 0px;}
+}
